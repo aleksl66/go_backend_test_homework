@@ -9,7 +9,7 @@ func Add(a, b int) int {
 }
 
 func main() {
-	fmt.Println("Я домашка")
+	fmt.Println("Я домашка, запушил через голэнд")
 }
 
 //56
